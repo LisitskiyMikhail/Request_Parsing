@@ -1,0 +1,7 @@
+The program reads a URL link from the console.
+Displays a space-separated list of all options (Parameters come after ? and are separated by &, eg lvl=15).
+The URL contains at least 1 parameter.
+Parameters should be displayed in the same order as they are presented in the URL.
+If the obj parameter is present, it will pass its value to the desired alert() method:
+alert(double value) - for numbers (don't forget that the number can be fractional);
+alert(String value) - for strings.
